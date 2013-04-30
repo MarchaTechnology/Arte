@@ -1,4 +1,4 @@
 Arte
 ====
 
-Arcivos STL artisticas
+Archivos STL atisticos.
