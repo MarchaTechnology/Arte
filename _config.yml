@@ -5,7 +5,7 @@
 ## 
 
 ## Uses distinct namespace. Jekyll settings should go at the root level.
-Githubiverse:
+githubiverse:
     ## Metadata
     title: "Marcha Technology"
     author: L Chavalet
