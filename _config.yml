@@ -21,7 +21,7 @@ githubiverse:
 
     ## The names of directories where any images, source and stl files associated with the project can be found.
     img_dir: img
-    stl_dir: Cube Gears
+    stl_dir: Corazon
     src_dir: Cube Gears
 
     ## The headline image
