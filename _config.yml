@@ -14,7 +14,7 @@ githubiverse:
 
     ## Github project parameters.
     github:
-        base: https://github.com/MarchaTechnology/Arte/
+        base: https://github.com/
         user: MarchaTechnology
         repository: Arte
         branch: master
